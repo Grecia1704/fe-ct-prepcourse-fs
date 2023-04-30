@@ -41,6 +41,9 @@ function colors(color) {
    // Si no es ninguno de esos colores           --> "Color not found".
    // IMPORTANTE: utilizar el statement SWITCH.
    // Tu código:
+   switch(color){
+      case 'blue'
+   }
 }
 
 function esDiezOCinco(num) {
